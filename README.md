@@ -13,7 +13,7 @@
  
 
 
-<p align="center">:round_pushpin: Profile visitors</p>
+<p align="center">Profile visitors</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/jonathandsrocha/count.svg">
 </div>
