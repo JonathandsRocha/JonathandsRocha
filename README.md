@@ -19,11 +19,15 @@
 </div>
   
 <h2> Linguagens & Frameworks que estou estudando </h2>
+<code><img title="HTML5" alt="HTML5" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></code>
+<code><img title="CSS3" alt="CSS3" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></code>
 <code><img title="C#" alt="C#" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
 <code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <code><img title="SQL" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
 
 <h2> Ferramentas que uso </h2>
+<code><img title="PHOTOSHOP" alt="PHOTOSHOP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /></code>
+<code><img title="ILLUSTRATOR" alt="ILLUSTRATOR" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" /></code>
 <code><img title="VISUAL STUDIO" alt="VISUAL STUDIO" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
 <code><img title="VS CODE" alt="VS CODE" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="WINDOWS" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
